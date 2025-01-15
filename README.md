@@ -42,6 +42,7 @@ Visualize the results.
 
 This project provides a comparative analysis of three popular forecasting techniques. Each model's performance is evaluated, helping to determine which method works best for time series forecasting based on the given dataset.
 
-License
+# License
+
 This project is licensed under the MIT License.
 
